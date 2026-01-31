@@ -89,7 +89,7 @@ class VideoCallController extends GetxController {
 
     await _engine.joinChannel(
       token:
-          "007eJxTYBBY/2uG0bIA3ayFhS2B5Q4lueeqin8GskYwu0dnNKSzvFRgMDAzT0kyMTY1tjQwNUk2SbFMMzayNE9NNjROtrQwSU1Zd6smsyGQkWF1wipmRgYIBPHZGAqKMvOSUxkYAAAFHtc=",
+          "007eJxTYDiVuUOzXeDJ/ScMx024jNN6NJWZWOflVWyp2LlGsdsxS0iBwcDMPCXJxNjU2NLA1CTZJMUyzdjI0jw12dA42dLCJDVlpX1dZkMgI0OvpgcLIwMEgvhsDAVFmXnJqQwMALPPHP4=",
       channelId: "prince",
       uid: 0,
       options: const ChannelMediaOptions(
